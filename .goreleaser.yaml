@@ -35,11 +35,11 @@ universal_binaries:
 brews:
   - # Name template of the recipe
     # Default to project name
-    name: cli-template
+    name: cape
 
     # Your app's homepage.
     # Default is empty.
-    homepage: "https://github.com/jipilmuk/cli-template"
+    homepage: "https://github.com/jipilmuk/cape"
 
     # GitHub/GitLab repository to push the formula to
     repository:
