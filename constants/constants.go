@@ -7,8 +7,8 @@ var userHomeDir, _ = os.UserHomeDir()
 var BaseDir = userHomeDir + "/cape"
 
 // github username and repo in order to fetch snippets.
-var Owner = "jipilmuk"
-var Repository = "background"
+var Owner = "mindulle"
+var Repository = "background-knowledge"
 
 // urls for hosted websites.
 const GardenBaseurl = "https://mindulle.github.io/garden"
